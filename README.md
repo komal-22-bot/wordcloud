@@ -1,6 +1,7 @@
 ##Generate Word Cloud from 5-Star Reviews
 
-*Project Overview 
+*Project Overview:
+
 This project filters reviews from Google Play Store apps in the "Health & Fitness" category, focusing on 5-star reviews using jupyter notebook. 
 It generates a word cloud to visualize the most frequent keywords in these reviews, while excluding common stopwords and app names. 
 The goal is to identify key terms and insights from positive user feedback for health and fitness apps.
